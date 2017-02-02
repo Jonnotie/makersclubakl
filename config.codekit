@@ -36,57 +36,46 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/images\/logo.png": {
-		"fileType": 32768,
+	"\/images\/favicon.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1260,
-		"inputAbbreviatedPath": "\/images\/logo.png",
-		"outputAbbreviatedPath": "\/images\/logo.png",
+		"initialSize": 1637,
+		"inputAbbreviatedPath": "\/images\/favicon.jpg",
+		"outputAbbreviatedPath": "\/images\/favicon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/logo@2x.png": {
-		"fileType": 32768,
+	"\/images\/logo.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2938,
-		"inputAbbreviatedPath": "\/images\/logo@2x.png",
-		"outputAbbreviatedPath": "\/images\/logo@2x.png",
+		"initialSize": 5550,
+		"inputAbbreviatedPath": "\/images\/logo.jpg",
+		"outputAbbreviatedPath": "\/images\/logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/makers-club.png": {
-		"fileType": 32768,
+	"\/images\/makers-club.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 282,
-		"inputAbbreviatedPath": "\/images\/makers-club.png",
-		"outputAbbreviatedPath": "\/images\/makers-club.png",
+		"initialSize": 2465,
+		"inputAbbreviatedPath": "\/images\/makers-club.jpg",
+		"outputAbbreviatedPath": "\/images\/makers-club.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/makers-club@2x.png": {
-		"fileType": 32768,
+	"\/images\/makers-club@2x.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 447,
-		"inputAbbreviatedPath": "\/images\/makers-club@2x.png",
-		"outputAbbreviatedPath": "\/images\/makers-club@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mc-dribbble.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10621,
-		"inputAbbreviatedPath": "\/images\/mc-dribbble.png",
-		"outputAbbreviatedPath": "\/images\/mc-dribbble.png",
+		"initialSize": 3552,
+		"inputAbbreviatedPath": "\/images\/makers-club@2x.jpg",
+		"outputAbbreviatedPath": "\/images\/makers-club@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -95,31 +84,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5730,
+		"initialSize": 28665,
 		"inputAbbreviatedPath": "\/images\/mc-facebook.jpg",
 		"outputAbbreviatedPath": "\/images\/mc-facebook.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/mc-facebook.png": {
-		"fileType": 32768,
+	"\/images\/mc-twitter.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18418,
-		"inputAbbreviatedPath": "\/images\/mc-facebook.png",
-		"outputAbbreviatedPath": "\/images\/mc-facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mc-twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3370,
-		"inputAbbreviatedPath": "\/images\/mc-twitter.png",
-		"outputAbbreviatedPath": "\/images\/mc-twitter.png",
+		"initialSize": 7737,
+		"inputAbbreviatedPath": "\/images\/mc-twitter.jpg",
+		"outputAbbreviatedPath": "\/images\/mc-twitter.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

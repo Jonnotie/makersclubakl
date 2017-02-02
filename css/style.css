@@ -47,12 +47,12 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #C60442;
+  color: #9012FE;
   padding-bottom: 2px;
-  border-bottom: 1px solid rgba(198, 4, 66, 0.2); }
+  border-bottom: 1px solid rgba(144, 18, 254, 0.2); }
 
 a:hover {
-  border-bottom: 1px solid rgba(198, 4, 66, 0.6); }
+  border-bottom: 1px solid rgba(144, 18, 254, 0.6); }
 
 a.button {
   margin: 36px 0;
