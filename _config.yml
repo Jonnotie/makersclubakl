@@ -2,9 +2,6 @@
 title: Makers Club Auckland
 timezone: UTC
 collections:
-  events:
-    title: Events
-    output: true
   posts:
     title: Posts
     output: true
