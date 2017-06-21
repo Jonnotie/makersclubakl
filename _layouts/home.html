@@ -17,7 +17,7 @@
           {% when '3' or '23' %}{{ day }}rd
           {% else %}{{ day }}th
         {% endcase %}
-        {{ post.at | date: "of %B" }}</em> at <a href="https://goo.gl/maps/kfXoQiFXXpK2" target="_blank">{{ post.where }}</a> around <em>{{ post.at | date: "%l%P" }}</em>.</h2>
+        {{ post.at | date: "of %B" }}</em> at <a href="{{ post.where.map }}" target="_blank">{{ post.where.name }}</a> around <em>{{ post.at | date: "%l%P" }}</em>.</h2>
 
     	<p>Makers Club is for people who enjoy making things. Designers, photographers, illustrators, typographers, filmmakers, programmers, every maker is welcome. There is no agenda, it's not for recruiting, the point is just to meet, talk and drink with other people.</p>
 
