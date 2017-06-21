@@ -15,7 +15,7 @@ baseurl:
 url: 
 twitter_username: jonnotie
 jonnotie: jekyll
-color: "#9012FE"
+color: "#4990E2"
 markdown: kramdown
 gems:
 - jekyll-feed
