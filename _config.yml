@@ -8,17 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ""
-    type: posts
-  values:
-    title:
-    date:
-    location: Golden Dawn
-    at: 20:00:00 Z
-    url:
-    color: "#4EAAE5"
 permalink: "/:categories/:title"
 email: me@jonnotie.com
 description: Makers Club is a monthly get together for people who enjoy making things.
