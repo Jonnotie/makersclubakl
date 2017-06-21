@@ -10,20 +10,20 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: posts
   values:
-    title:
-    date:
+    title: 
+    date: 
     location: Golden Dawn
     at: 20:00:00 Z
-    url:
+    url: 
     color: "#4EAAE5"
 permalink: "/:categories/:title"
 email: me@jonnotie.com
 description: Makers Club is a monthly get together for people who enjoy making things.
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: jonnotie
 jonnotie: jekyll
 color: "#4EAAE5"
