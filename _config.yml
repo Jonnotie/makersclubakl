@@ -16,7 +16,7 @@ url:
 twitter_username: jonnotie
 jonnotie: jekyll
 color: "#4EAAE5"
-event_url: ''
+event_url: https://www.facebook.com/events/1803868849875937/
 markdown: kramdown
 gems:
 - jekyll-feed
