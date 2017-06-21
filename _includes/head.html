@@ -6,8 +6,13 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="shortcut icon" href="{{ "/assets/images/favicon.ico" | relative_url }}">
 
+  <meta property="og:url"                content="{{ site.url }}" />
+	<meta property="og:title"              content="{{ site.title | escape }}" />
+	<meta property="og:description"        content="{{ site.description | escape }}" />
+	<meta property="og:image"              content="{{ site.url }}{{ "/assets/images/mc-facebook.jpg" | url }}" />
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 </head>
