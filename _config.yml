@@ -1,19 +1,24 @@
+---
 title: Makers Club Auckland
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 permalink: "/:categories/:title"
 email: your-email@domain.com
 description: Makers Club is a monthly get together for people who enjoy making things.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ''
+url: ''
 twitter_username: jekyllrb
-github_username:  jekyll
-
-# Colors
+github_username: jekyll
 color: "#9012FE"
-
-# Build settings
 markdown: kramdown
 gems:
-  - jekyll-feed
+- jekyll-feed
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
