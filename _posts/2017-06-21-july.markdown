@@ -2,10 +2,9 @@
 title: July
 date: 2017-06-21 03:11:00 Z
 color: "#4EAAE5"
-url: https://www.facebook.com/events/720901534764484/
+facebook: https://www.facebook.com/events/720901534764484/
 at: 2017-07-05 19:00:00 Z
 where:
   name: Golden Dawn
   map: https://goo.gl/maps/VB7HBDNztHs
 ---
-
