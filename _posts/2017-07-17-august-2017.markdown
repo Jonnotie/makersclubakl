@@ -6,6 +6,6 @@ facebook: facebook.com
 where:
   name: Golden Dawn
   map: https://goo.gl/maps/VB7HBDNztHs
-at: 2017-08-02 00:00:00 Z
+at: 2017-08-02 19:00:00 Z
 ---
 
