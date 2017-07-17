@@ -3,6 +3,9 @@ title: August 2017
 date: 2017-07-17 00:32:00 Z
 color: "#ef5285"
 facebook: facebook.com
+where:
+  name: Golden Dawn
+  map: https://goo.gl/maps/VB7HBDNztHs
 at: 2017-08-02 00:00:00 Z
 ---
 
