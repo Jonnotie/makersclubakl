@@ -19,7 +19,7 @@ defaults:
     where:
       name: Golden Dawn
       map: https://goo.gl/maps/VB7HBDNztHs
-    at: 
+    at:
 permalink: "/:categories/:title"
 email: me@jonnotie.com
 description: Makers Club is a monthly get together for people who enjoy making things.
