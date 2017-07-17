@@ -10,8 +10,8 @@ collections:
     output: true
 defaults:
   title: Month
-  color:
-  facebook:
+  color: ""
+  facebook: "" 
   where:
     name: Golden Dawn
     map: https://goo.gl/maps/VB7HBDNztHs
